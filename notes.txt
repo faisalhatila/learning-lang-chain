@@ -6,3 +6,10 @@ There are 6 different components in Langchain
 4. Memory
 5. Indexes
 6. Agents
+
+
+
+In Langchain we can communicate with 2 type of Models
+
+1. Language Models
+2. Embedding Models

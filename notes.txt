@@ -11,5 +11,5 @@ There are 6 different components in Langchain
 
 In Langchain we can communicate with 2 type of Models
 
-1. Language Models
-2. Embedding Models
+1. Language Models (Takes text input gives test output)
+2. Embedding Models (Takes text input gives vector output)

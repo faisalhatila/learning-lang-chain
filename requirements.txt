@@ -17,6 +17,7 @@ google-generativeai
 langchain-huggingface
 transformers
 huggingface-hub
+jinja2
 
 # Environment Variable Management
 python-dotenv

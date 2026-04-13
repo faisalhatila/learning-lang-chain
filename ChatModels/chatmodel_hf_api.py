@@ -15,5 +15,3 @@ print("hello")
 
 result = model.invoke("What is the capital of Pakistan?")
 print(f"Capital is: {result.content}")
-
-

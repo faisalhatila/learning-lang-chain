@@ -17,7 +17,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 
 # 1. Set up your API Key
 # You can also set this as an environment variable: GOOGLE_API_KEY
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAt_TMlyMi1qQfF6nrIIggjnOwuUVd9OFU"
+os.environ["GOOGLE_API_KEY"] = "KEY"
 
 # 2. Initialize the Model
 # Models include: "gemini-1.5-flash" (fast) or "gemini-1.5-pro" (complex tasks)
